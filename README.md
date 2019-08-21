@@ -1,9 +1,8 @@
-# Status Bar Sample
+# Save And Load
 
-This is a sample extension that adds a status bar entry showing the current number of selected lines.
+vscode extension, used for saving a position and loading it in everywhere.
 
-![Show number of selected lines](https://raw.githubusercontent.com/Microsoft/vscode-extension-samples/master/statusbar-sample/preview.gif)
-
+repo: https://github.com/JamesChan21/vscode-Save-And-Load
 
 ## VS Code API
 
