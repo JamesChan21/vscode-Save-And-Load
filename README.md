@@ -4,7 +4,7 @@ vscode extension, used for saving a position and loading it in everywhere.
 
 ## Preview
 
-![img](https://github.com/JamesChan21/vscode-Save-And-Load/blob/master/preview.gif)
+![img](https://raw.githubusercontent.com/JamesChan21/vscode-Save-And-Load/master/preview.gif)
 
 ## KeyBindings
 
