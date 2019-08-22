@@ -61,7 +61,7 @@ function updateCursonPosition(): void {
 	record_line = position.line;
 	record_character = position.character;
 	recordPath = vscode.window.activeTextEditor!.document.fileName;
-	// vscode.window.showInformationMessage('save');
+	vscode.window.showInformationMessage('SAVE');
 
 	status = true;
 	isRecord = true;
@@ -93,7 +93,7 @@ function setCursonPosition(): vscode.TextDocumentShowOptions {
 
 	let options: vscode.TextDocumentShowOptions = {selection: editor!.selection};
 	
-	// vscode.window.showInformationMessage('load');
+	vscode.window.showInformationMessage('LOAD');
 	status = false;
 
 	return options
