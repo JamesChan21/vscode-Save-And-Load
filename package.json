@@ -6,10 +6,10 @@
 	"publisher": "JamesChan",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-extension-samples"
+		"url": "https://github.com/JamesChan21/vscode-Save-And-Load"
 	},
 	"bugs": {
-		"url": "https://github.com/Microsoft/vscode-extension-samples/issues"
+		"url": "https://github.com/JamesChan21/vscode-Save-And-Load/issues"
 	},
 	"engines": {
 		"vscode": "^1.32.0"
