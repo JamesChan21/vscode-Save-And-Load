@@ -2,10 +2,10 @@
 
 vscode extension, used for saving a position and loading it in everywhere.
 
-repo: https://github.com/JamesChan21/vscode-Save-And-Load
+## Preview
 
-## VS Code API
+![img](https://github.com/JamesChan21/vscode-Save-And-Load/blob/master/preview.gif)
 
-### `vscode` module
+## KeyBindings
 
-- [`window.createStatusBarItem`](https://code.visualstudio.com/api/references/vscode-api#window.createStatusBarItem)
+goto KeyBoard Shortcuts and change what you want.
