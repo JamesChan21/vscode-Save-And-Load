@@ -2,6 +2,7 @@
 	"name": "Save-And-Load",
 	"displayName": "Save And Load",
 	"description": "Save a position and load in everywhere.",
+	"icon": "Icon.png",
 	"version": "1.0.2",
 	"publisher": "JamesChan",
 	"repository": {
